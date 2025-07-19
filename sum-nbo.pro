@@ -1,0 +1,2 @@
+SOURCES += \
+    sum-nbo.cpp
